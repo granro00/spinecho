@@ -1,1 +1,2 @@
 # spinecho
+all about magnets
